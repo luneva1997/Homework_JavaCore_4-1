@@ -2,8 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-.idea
-target
+.idea/
 api.iml
 db.iml
 Homework_JavaCore_4-1.iml
